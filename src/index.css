@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(139, 72, 16, 0.847);
+    background-color: rgba(47, 16, 244, 0.847);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
     justify-content: center;
 }
@@ -28,7 +28,7 @@ input[type="text"]{
     margin-bottom: 15px;
     border: 1px solid hsl(0, 2%, 77%);
     background-color: beige;
-    color: rgba(139, 72, 16, 0.847);
+    color: rgba(67, 67, 67, 0.847);
 }
 ol{
     padding: 0;
@@ -38,12 +38,12 @@ ol{
 li{
     font-size: 1.4rem;
     font-weight: 600;
-    color: beige;
+    color: rgb(61, 60, 60);
     padding: 10px;
     margin-bottom: 15px;
-    border: 1px solid rgb(176, 111, 55) ;
+    border: 1px solid rgb(16, 15, 15) ;
     border-radius: 5px;
-    background-color: rgb(176, 111, 55);
+    background-color: rgb(195, 193, 192);
     display: flex;
     align-items: center;
 }
