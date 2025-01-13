@@ -50,7 +50,7 @@ li{
 .text{
     flex: 1;
 }
-.delete-button, .move-button{
+.complete-button,.delete-button, .move-button{
     padding: 8px, 12px;
     font-size: 1.4rem;
     margin-left: 10px;
@@ -60,6 +60,12 @@ li{
 }
 .add-button:hover{
     background-color:hsl(120, 33%, 47%) ;
+}
+.complete-button{
+    background-color: hsl(120, 33%, 37%);
+}
+.complete-button:hover{
+    background-color: hsl(120, 33%, 47%);
 }
 .delete-button{
     background-color:hsl(0, 56%, 44%) ;
